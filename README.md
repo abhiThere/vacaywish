@@ -1,4 +1,5 @@
 VacayWish App
+
 A web application for hodophiles
 
 VacayWish is a nifty web app especially for travel enthusiasts across the globe.
