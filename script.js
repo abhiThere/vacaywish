@@ -42,7 +42,7 @@
 
     const img = document.createElement("img");
 
-    const constantPhotoURL = "images/signpost.jpg";
+    const constantPhotoURL = "./images/signpost.jpg";
 
     if (photoURL.length === 0) {
       img.src = constantPhotoURL;
