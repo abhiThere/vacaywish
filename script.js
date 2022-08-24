@@ -44,7 +44,7 @@
 
     const constantPhotoURL = "./images/signpost.jpg";
 
-    if (photoURL.length === 0) {
+    if (!photoURL) {
       img.src = constantPhotoURL;
     } else {
       img.src = photoURL;
