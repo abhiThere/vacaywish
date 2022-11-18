@@ -1,4 +1,4 @@
-🗺 VacayWish
+🗺 VacayWish: https://abhithere.github.io/vacaywish-app/
 
 A travel wish list web application for hodophiles to manage their travel bucket list.
 
@@ -9,7 +9,7 @@ The travel bucket list is displayed on the landing page. The users can also remo
 
 This web app is developed using HTML, CSS and JavaScript. It provides an attractive user interface for curious travellers to embark on their next exciting journey.
 
-Hosted at: https://abhithere.github.io/vacaywish-app/
+
 
 
 
