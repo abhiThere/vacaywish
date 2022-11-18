@@ -1,6 +1,6 @@
 # VacayWish App
 
-🗺 VacayWish: https://abhithere.github.io/vacaywish-app/
+🗺 VacayWish: https://abhithere.github.io/vacaywish/
 
 A travel wish list web application for hodophiles to manage their travel bucket list.
 
