@@ -1,4 +1,4 @@
-# VacayWish App
+#🗺 VacayWish App
 
 🗺 VacayWish: https://abhithere.github.io/vacaywish-app/
 
