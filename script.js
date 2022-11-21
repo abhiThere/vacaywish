@@ -12,7 +12,7 @@
     // Extract form values
     const destName = event.target.elements["name"].value;
     const destLocation = event.target.elements["location"].value;
-    const destPhoto = event.target.elements["photo"].value;
+    const destImage = event.target.elements["image"].value;
     const destDesc = event.target.elements["description"].value;
 
     // Clear out form fields
@@ -24,7 +24,7 @@
     const destCard = createDestinationCard(
       destName,
       destLocation,
-      destPhoto,
+      destImage,
       destDesc
     );
 
@@ -36,18 +36,18 @@
     document.querySelector("#destinations_container").appendChild(destCard);
   }
 
-  function createDestinationCard(name, location, photoURL, description) {
+  function createDestinationCard(name, location, imgURL, description) {
     const card = document.createElement("div");
     card.className = "card";
 
     const img = document.createElement("img");
 
-    const constantPhotoURL = "./images/signpost.jpg";
+    const constantImgURL = "./images/signpost.jpg";
 
-    if (!photoURL) {
-      img.src = constantPhotoURL;
+    if (!imgURL) {
+      img.src = constantImgURL;
     } else {
-      img.src = photoURL;
+      img.src = imgURL;
     }
 
     img.setAttribute("alt", name);
