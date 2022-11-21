@@ -8,7 +8,7 @@ The web app is live at [VacayWish](https://abhithere.github.io/vacaywish/)
 
 VacayWish is a web app for travel enthusiasts across the world.
 The web app allows users to create a wish list of travel destinations they desire to visit.
-The users can add a travel place to the wish list by filling out a form wherein they provide details like the name, location, photo url and description of the place.  
+The users can add a travel place to the wish list by filling out a form wherein they provide details like the name, location, image url and description of the place.  
 The travel wish list is displayed on the landing page. The users can also remove a travel place from the wish list if they happen to visit it or change their mind.
 
 # Features
