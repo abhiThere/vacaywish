@@ -29,7 +29,7 @@
     );
 
     if (wishListContainer.children.length === 0) {
-      document.querySelector("#title").innerHTML = "My Wish List";
+      document.querySelector("#title").innerHTML = "My Travel Wish List";
     }
 
     // Add Card
