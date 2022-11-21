@@ -2,7 +2,7 @@
 
 A travel web application for hodophiles to manage their travel wish list.
 
-The website is live at [VacayWish](https://abhithere.github.io/vacaywish/)
+The web app is live at [VacayWish](https://abhithere.github.io/vacaywish/)
 
 # Description
 
