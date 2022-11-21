@@ -13,7 +13,19 @@ p {
 
 img {
   max-width: 100%;
+  margin-right: 0.5rem;
   margin-bottom: 1rem;
+}
+
+#logo {
+  display: flex;
+  justify-content: center;
+  vertical-align: middle;
+}
+
+#logo h1 {
+  margin: 0;
+  padding: 0.5rem;
 }
 
 body {
@@ -114,4 +126,5 @@ textarea {
   border: 1px solid #200220;
   border-radius: 10px;
   padding: 8px;
+  cursor: pointer;
 }
