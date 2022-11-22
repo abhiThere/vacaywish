@@ -39,4 +39,3 @@ This web app is developed using HTML, CSS and JavaScript. It provides an attract
 [css-url]: https://www.w3.org/Style/CSS/Overview.en.html
 [javascript-shield]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [javascript-url]: https://tc39.es/ecma262/
-
