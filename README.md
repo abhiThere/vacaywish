@@ -1,24 +1,26 @@
-# VacayWish 🗺 
+# 🗺 VacayWish  
 
 A travel web application for hodophiles to manage their travel wish list.
 
 The web app is live at [VacayWish](https://abhithere.github.io/vacaywish/)
 
-# Description
+# 📃 Description
 
 VacayWish is a web app for travel enthusiasts across the world.
 The web app allows users to create a wish list of travel destinations they desire to visit.
 The users can add a travel place to the wish list by filling out a form wherein they provide details like the name, location, image url and description of the place.  
 The travel wish list is displayed on the landing page. The users can also remove a travel place from the wish list if they happen to visit it or change their mind.
 
-# Features
+# 🎯 Features
 
 * Create a wish list of travel destinations.
 * Add a travel place to the wish list.
 * View the travel wish list.
 * Remove a travel place from the wish list.
 
-# Built With
+# 📷 Screenshots
+
+# 👨‍💻 Built With
 
 This web app is developed using HTML, CSS and JavaScript. It provides an attractive user interface for curious travellers to embark on their next exciting travel journey.
 
@@ -26,7 +28,7 @@ This web app is developed using HTML, CSS and JavaScript. It provides an attract
 * [![CSS][css-shield]][css-url]
 * [![JavaScript][javascript-shield]][javascript-url]
 
-# Acknowledgements
+# 📝 Acknowledgements
 
 * [GitHub Pages](https://pages.github.com)
 
