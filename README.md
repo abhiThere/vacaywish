@@ -20,6 +20,14 @@ The travel wish list is displayed on the landing page. The users can also remove
 
 # 📷 Screenshots
 
+![Travel Wish List](https://user-images.githubusercontent.com/74660692/203375748-685f43a3-dca0-4f00-98cd-d50b3b0185e7.png)
+
+
+![Wish List Form](https://user-images.githubusercontent.com/74660692/203375798-22ef9035-0e24-4521-93b4-5c1535f6f83f.png)
+
+
+![Wish List Card](https://user-images.githubusercontent.com/74660692/203375853-1fba30c5-2d6f-49cd-a90b-6cce711777d0.png)
+
 # 👨‍💻 Built With
 
 This web app is developed using HTML, CSS and JavaScript. It provides an attractive user interface for curious travellers to embark on their next exciting travel journey.
